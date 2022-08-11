@@ -1,7 +1,7 @@
 ## Hey, Welcome to my Github 👋
 
-🕹️ I'm currently working with softwares programming and design; 
-<br>🌱 I’m currently learning JavaScript and Typescript;
+🕹️ I'm currently working with Junior Developer FrontEnd and design; 
+<br>🌱 I’m currently studying JavaScript, React.JS and Typescript;
 <br>🏳️‍🌈 Pronouns: He/Him;
 <!--<br>⚡ Fun fact: ;-->
 
